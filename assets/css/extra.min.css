@@ -1,0 +1,54 @@
+.menu-item i._mi {
+	vertical-align: middle; display: inline-block;
+}
+.menu-item img._mi {
+	vertical-align: middle; display: inline-block;
+}
+.menu-item i._mi {
+	width: auto; height: auto; line-height: 1; font-size: 1.2em; margin-top: -0.26em;
+}
+.menu-item i._before {
+	margin-right: 0.25em;
+}
+.rtl .menu-item i._after {
+	margin-right: 0.25em;
+}
+.menu-item i._after {
+	margin-left: 0.25em;
+}
+.rtl .menu-item i._before {
+	margin-left: 0.25em;
+}
+.menu-item img._before {
+	margin-right: 0.5em;
+}
+.rtl .menu-item img._after {
+	margin-right: 0.5em;
+}
+.menu-item img._after {
+	margin-left: 0.5em;
+}
+.rtl .menu-item img._before {
+	margin-left: 0.5em;
+}
+.menu-item ._svg {
+	width: 1em;
+}
+.rtl .menu-item i._before {
+	margin-right: 0px;
+}
+.rtl .menu-item i._after {
+	margin-left: 0px;
+}
+.visuallyhidden {
+	margin: -1px; padding: 0px; border: 0px currentColor; border-image: none; width: 1px; height: 1px; overflow: hidden; position: absolute; clip: rect(0px, 0px, 0px, 0px);
+}
+.menu-item i.elusive {
+	margin-top: -0.3em;
+}
+.dashicons-admin-site::before {
+	content: "\f319" !important;
+}
+.dashicons-welcome-view-site::before {
+	content: "\f115" !important;
+}
